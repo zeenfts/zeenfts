@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 :zap: GitHub stats
 
 ![stat](https://github-readme-stats.vercel.app/api?username=zeeniye&show_icons=true&theme=nord)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeniye&layout=compact)
