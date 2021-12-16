@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Gists Badge](https://badges.pufler.dev/gists/zeeniye)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/zeeniye)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/zeenfts)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/zeenfts)](https://badges.pufler.dev)
 
-[![Repos Badge](https://badges.pufler.dev/repos/zeeniye)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/zeeniye)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/zeenfts)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/zeenfts)](https://badges.pufler.dev)
 
 :zap: GitHub stats
 -->
 
-![stat](https://github-readme-stats.vercel.app/api?username=zeeniye&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeniye&layout=compact)
+![stat](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact)
