@@ -1,7 +1,20 @@
 ### Hi there 👋
 
+![the Stats](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=one_dark_pro)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact&theme=one_dark_pro)
+
+---
+
+![Static Badge](https://img.shields.io/badge/rust-lang?style=for-the-badge&logo=rust&logoColor=%23000000&logoSize=auto&color=red)
+![Static Badge](https://img.shields.io/badge/python-lang?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/javascript-lang?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/php-lang?style=for-the-badge&logo=php&logoColor=%23777BB4&logoSize=auto&color=lightgrey)
+![Static Badge](https://img.shields.io/badge/fedora-os?style=for-the-badge&logo=fedora&logoColor=%2351A2DA&logoSize=auto&color=navy)
+![Static Badge](https://img.shields.io/badge/tailwindcss-frmw?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&color=navy)
+![Static Badge](https://img.shields.io/badge/laravel-frmw?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&logoSize=auto&color=lightgrey)
+
 <!--
-**zeeniye/zeeniye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zeenfts/zeenfts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,5 +33,3 @@ Here are some ideas to get you started:
 
 :zap: GitHub stats
 -->
-
-![stat](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact)
