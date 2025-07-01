@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![the Stats](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=one_dark_pro)</br>
+![the Stats](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=one_dark_pro)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact&theme=one_dark_pro)
 
 ---
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 [![Repos Badge](https://badges.pufler.dev/repos/zeenfts)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/zeenfts)](https://badges.pufler.dev)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeenfts)
 
 :zap: GitHub stats
 -->
