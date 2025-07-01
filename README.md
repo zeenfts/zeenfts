@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![the Stats](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=one_dark_pro)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact&theme=one_dark_pro)
+![the Stats](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact&theme=nord)
 
 ---
 
