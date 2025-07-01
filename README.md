@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 ![the Stats](https://github-readme-stats.vercel.app/api?username=zeenfts&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeenfts&layout=compact&theme=nord&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook)
 
 ---
 
-![Static Badge](https://img.shields.io/badge/rust-lang?style=for-the-badge&logo=rust&logoColor=%23000000&logoSize=auto&color=red)
-![Static Badge](https://img.shields.io/badge/python-lang?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&color=black)
-![Static Badge](https://img.shields.io/badge/javascript-lang?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&color=black)
-![Static Badge](https://img.shields.io/badge/php-lang?style=for-the-badge&logo=php&logoColor=%23777BB4&logoSize=auto&color=lightgrey)
-![Static Badge](https://img.shields.io/badge/fedora-os?style=for-the-badge&logo=fedora&logoColor=%2351A2DA&logoSize=auto&color=navy)
-![Static Badge](https://img.shields.io/badge/tailwindcss-frmw?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&color=navy)
-![Static Badge](https://img.shields.io/badge/laravel-frmw?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&logoSize=auto&color=lightgrey)
+![Static Badge](https://img.shields.io/badge/rust-lang?style=flat&logo=rust&logoColor=red&logoSize=auto&color=%23000000)
+![Static Badge](https://img.shields.io/badge/python-lang?style=flat&logo=python&color=%233776AB&logoSize=auto&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-lang?style=flat&logo=javascript&color=%23F7DF1E&logoSize=auto&logoColor=navy)
+![Static Badge](https://img.shields.io/badge/php-lang?style=flat&logo=php&color=%23777BB4&logoSize=auto&logoColor=white)
+![Static Badge](https://img.shields.io/badge/fedora-os?style=flat&logo=fedora&color=%2351A2DA&logoSize=auto&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tailwindcss-frmw?style=flat&logo=tailwindcss&color=%2306B6D4&logoSize=auto&logoColor=white)
+![Static Badge](https://img.shields.io/badge/laravel-frmw?style=flat&logo=laravel&color=%23FF2D20&logoSize=auto&logoColor=%23000000)
 
 <!--
 **zeenfts/zeenfts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
